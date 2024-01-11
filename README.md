@@ -1,7 +1,7 @@
 <h1>Ola! Como vai?</h1>
 
 <p>Meu nome é Felipe e atualemte sou desenvolvedor backend</p>
-<p>Eu sou do <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b> São Paulo, Brasil</b>.</p>
+<p>Eu sou de São José do Rio Preto, São Paulo, Brasil <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />.</p>
 
 ## Sobre mim
 - ✨ Desenvolvedor desde 2019
