@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Ola! Como vai?</h1>
 
-<!--
-**MiletFelipe/MiletFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Meu nome é Felipe e sou desenvolvedor</p>
+<p>Eu sou do <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b> São Paulo, Brasil</b>.</p>
 
-Here are some ideas to get you started:
+## Sobre mim
+- ✨ Desenvolvedor desde 2019
+- 📚 Atualmente estou estudando a stack de Javascript com o foco em NodeJs
+- 🎯 Objetivos: Primeira oportunidade como dev backend em NodeJs 🚀
+- 💼 Atualmente trabalho como autônomo já desenvolvendo em NodeJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><b>Principais Habilidades:</b> Desenvolvimento com metodologias ágeis, proatividade, projetos escaláveis ​​em php e/ou javascript.</p>
+
+## Ferramentas favoritas para gestão de equipes:
+- Jira 
+- Teams
+- Discord ou Google chat
