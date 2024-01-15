@@ -7,7 +7,7 @@
 - ✨ Desenvolvedor desde 2019
 - 📚 Atualmente estou estudando a stack de Javascript com o foco em NodeJs
 - 🎯 Objetivos: Primeira oportunidade como dev backend em NodeJs 🚀
-- 💼 Atualmente, trabalho como autônomo, desenvolvendo em Node.js
+- 💼 Atualmente, trabalho como autônomo, desenvolvendo em NodeJs
 
 <p><b>Principais Habilidades:</b> Desenvolvimento com metodologias ágeis, proatividade, projetos escaláveis ​​em PHP e/ou Javascript.</p>
 
