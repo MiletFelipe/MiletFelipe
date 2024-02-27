@@ -9,7 +9,7 @@
 - 🎯 Objetivos: Primeira oportunidade como dev backend 🚀
 - 💼 Atualmente, trabalho como autônomo, desenvolvendo em NodeJs
 
-<p><b>Principais Habilidades:</b> Desenvolvimento com metodologias ágeis, proatividade, projetos escaláveis ​​em PHP e/ou Javascript.</p>
+<p><b>Principais Habilidades:</b> Desenvolvimento com metodologias ágeis, proatividade, projetos escaláveis ​​em PHP e/ou Node.js.</p>
 
 ## Ferramentas favoritas para gestão de equipes:
 - Jira 
